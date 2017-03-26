@@ -8,10 +8,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://carlosdelfino.github.io",
-    "hubpress": "http://carlosdelfino.eti.br",
-    "theme": "//carlosdelfino.github.io/themes/casper",
-    "images": "https://carlosdelfino.github.io/images"
+    "site": "https://carlosdelfino.eti.br",
+    "hubpress": "http://carlosdelfino.eti.br/carlosdelfino-hubpress",
+    "theme": "//carlosdelfino.eti.br/themes/casper",
+    "images": "https://carlosdelfino.eti.br/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
